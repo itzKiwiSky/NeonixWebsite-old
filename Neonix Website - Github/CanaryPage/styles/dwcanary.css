@@ -1,0 +1,84 @@
+body {
+	background-color: black;
+}
+#title {
+	padding-top: 30px;
+	color: #fff;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 56px;
+}
+
+.desc {
+	padding-top: 50px;
+	color: #fff;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 25px;
+}
+
+#btn_download {
+	display: block;
+	border: 3px solid #FFB300;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 32px;
+	color: #FFB300;
+	/* Button Paddings */
+	margin-left: 340px;
+	margin-right: 340px;
+	margin-top: 30px;
+	text-decoration: none; 
+}
+
+#btn_download:hover {
+	display: block;
+	border: 3px solid #fff;
+	color: #FFF;
+	background-color: #232323;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 32px;
+	/* Button Paddings */
+	margin-left: 340px;
+	margin-right: 340px;
+	margin-top: 30px;
+}
+
+#foot {
+	background-color: #080808;
+	font-family: 'VT323', monospace;
+	font-size: 24px;
+	color: #222;
+	text-align: center;
+}
+
+#image_footer {
+	padding-top: 10px;
+	width: 10%;
+}
+
+.text {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.download {
+	text-decoration: none;
+	color: #fff
+}
+
+.desc2 {
+	color: #555;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 25px;
+}
+
+#footer {
+	padding-top: 100px;
+}
+
+.actionbar {
+	padding-top: 70px;
+}
