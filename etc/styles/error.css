@@ -1,0 +1,40 @@
+body {
+	background-color: #000;
+}
+
+.image {
+	padding-top: 40px;
+	padding-bottom: 30px;
+	padding-left: 550px;
+	width: 13%;
+}
+
+.err_title {
+	color: #fff;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 58px;
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+.err_text {
+	color: #fff;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 28px;
+	text-align: center;
+}
+
+.err_link {
+	text-decoration: none;
+	color: #fff;
+	text-align: center;
+	font-family: 'VT323', monospace;
+	font-size: 28px;
+	text-align: center;
+}
+
+.err_link_plus {
+	text-align: center;
+}
